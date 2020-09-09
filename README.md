@@ -7,11 +7,13 @@ Firebase is used for backend.
 
 Firebase has Cloud Storage as well as live updates.
 
+Change firebase settings by creating a new firebase account.
+
 The app also has Razor payment gateway.
 
 This will be also helpful for newbie for developing app using react-native.
 
-Screenshots:
+**Screenshots:**
 
 
 ![eee2c0c3252454c16825754aec3126f3](https://user-images.githubusercontent.com/46017529/92597067-734a9180-f2c4-11ea-8c91-d48b48b12450.jpg)
