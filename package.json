@@ -28,7 +28,7 @@
     "react-native-numeric-input": "^1.8.3",
     "react-native-popup-dialog": "^0.18.3",
     "react-native-razorpay": "2.1.30",
-    "react-native-reanimated": "^1.9.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^3.0.7",
     "react-native-screens": "^2.9.0",
     "react-native-vector-icons": "7.0.0"
